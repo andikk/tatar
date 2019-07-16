@@ -1,1 +1,1 @@
-<img src="https://andikk.github.io/tatar/img/tatar.png">
+<img src="https://andikk.github.io/tatar/img/tatar.jpg">
